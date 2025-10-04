@@ -6,7 +6,7 @@ Quando você inicia um novo projeto com Vite, ele cria para você um diretório 
 
 Então, eu vou mostrar a vocês como eu estruturo **meus projetos React utilizando Vite.**
 
-Caso você queira, pode ir acompanhando o repositório do projeto que eu criei para esse tutorial: [vite-template](https://github.com/igorroc/vite-template)
+Caso você queira, pode ir acompanhando o repositório do projeto que eu criei para esse tutorial: [vite-template](https://github.com/alessandra-cardozo)
 
 ## 🚩 Início do desenvolvimento
 
@@ -366,5 +366,6 @@ Agora que tudo está pronto, vamos ver o projeto funcionando!
    http://localhost:5173/
    ```  
 3. **Abra esse link no navegador** e veja seu projeto rodando! 🌟  
+
 
 
